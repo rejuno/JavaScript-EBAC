@@ -8,4 +8,4 @@ function calculaArea (base, altura){
     let resultado = base*altura;
     return resultado;
 }
-alert("O valor da área é: "+calculaArea(base,altura));
+alert("O valor da área é: "+calculaArea(base,altura))
